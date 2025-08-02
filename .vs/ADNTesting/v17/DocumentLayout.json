@@ -1,0 +1,872 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\adntesting\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|solutionrelative:adntesting\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\adntesting\\appointmentbookedwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|solutionrelative:adntesting\\appointmentbookedwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\adntesting\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|solutionrelative:adntesting\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\adntesting\\managetestpurposewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|solutionrelative:adntesting\\managetestpurposewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\adntesting\\managetestcategorywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|solutionrelative:adntesting\\managetestcategorywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\adntesting\\manageservicewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|solutionrelative:adntesting\\manageservicewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\adntesting\\managesampletypewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|solutionrelative:adntesting\\managesampletypewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\adntesting\\managerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|solutionrelative:adntesting\\managerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\adntesting\\managerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|solutionrelative:adntesting\\managerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\adntesting\\managereportwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|solutionrelative:adntesting\\managereportwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\adntesting\\managereportwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|solutionrelative:adntesting\\managereportwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\adntesting\\managekitwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|solutionrelative:adntesting\\managekitwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\adntesting\\managefeedback.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|solutionrelative:adntesting\\managefeedback.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\adntesting\\managefeedback.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|solutionrelative:adntesting\\managefeedback.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\adntesting\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|solutionrelative:adntesting\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\adntesting\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|solutionrelative:adntesting\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\adntesting\\kitdetailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|solutionrelative:adntesting\\kitdetailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\adntesting\\feedbackwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|solutionrelative:adntesting\\feedbackwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\adntesting\\feedbackwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|solutionrelative:adntesting\\feedbackwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\adntesting\\detailservicewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|solutionrelative:adntesting\\detailservicewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\adntesting\\detailbookingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|solutionrelative:adntesting\\detailbookingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\adntesting\\detailbookingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|solutionrelative:adntesting\\detailbookingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\adntesting\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|solutionrelative:adntesting\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\adntesting\\createresultwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|solutionrelative:adntesting\\createresultwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\adntesting\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|solutionrelative:adntesting\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\adntesting\\appointmentbookedwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|solutionrelative:adntesting\\appointmentbookedwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\adntesting\\servicewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|solutionrelative:adntesting\\servicewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\adntesting\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|solutionrelative:adntesting\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B46B36-EDBF-49FD-8404-7F6FE808A118}|BLL\\BLL.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\bll\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B46B36-EDBF-49FD-8404-7F6FE808A118}|BLL\\BLL.csproj|solutionrelative:bll\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5253F5A0-5B6F-4E30-9E19-16DCE60ECE5A}|DAL\\DAL.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\dal\\entities\\reportmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5253F5A0-5B6F-4E30-9E19-16DCE60ECE5A}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\reportmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5253F5A0-5B6F-4E30-9E19-16DCE60ECE5A}|DAL\\DAL.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5253F5A0-5B6F-4E30-9E19-16DCE60ECE5A}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B46B36-EDBF-49FD-8404-7F6FE808A118}|BLL\\BLL.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B46B36-EDBF-49FD-8404-7F6FE808A118}|BLL\\BLL.csproj|solutionrelative:bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\adntesting\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|solutionrelative:adntesting\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\adntesting\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|solutionrelative:adntesting\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B46B36-EDBF-49FD-8404-7F6FE808A118}|BLL\\BLL.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\bll\\services\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B46B36-EDBF-49FD-8404-7F6FE808A118}|BLL\\BLL.csproj|solutionrelative:bll\\services\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5253F5A0-5B6F-4E30-9E19-16DCE60ECE5A}|DAL\\DAL.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\dal\\repositories\\feedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5253F5A0-5B6F-4E30-9E19-16DCE60ECE5A}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\feedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\adntesting\\servicewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|solutionrelative:adntesting\\servicewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5253F5A0-5B6F-4E30-9E19-16DCE60ECE5A}|DAL\\DAL.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\dal\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5253F5A0-5B6F-4E30-9E19-16DCE60ECE5A}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B46B36-EDBF-49FD-8404-7F6FE808A118}|BLL\\BLL.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\bll\\services\\testpurposeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B46B36-EDBF-49FD-8404-7F6FE808A118}|BLL\\BLL.csproj|solutionrelative:bll\\services\\testpurposeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5253F5A0-5B6F-4E30-9E19-16DCE60ECE5A}|DAL\\DAL.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\dal\\repositories\\testpurposerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5253F5A0-5B6F-4E30-9E19-16DCE60ECE5A}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\testpurposerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5253F5A0-5B6F-4E30-9E19-16DCE60ECE5A}|DAL\\DAL.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\dal\\repositories\\testcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5253F5A0-5B6F-4E30-9E19-16DCE60ECE5A}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\testcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5253F5A0-5B6F-4E30-9E19-16DCE60ECE5A}|DAL\\DAL.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\dal\\repositories\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5253F5A0-5B6F-4E30-9E19-16DCE60ECE5A}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5253F5A0-5B6F-4E30-9E19-16DCE60ECE5A}|DAL\\DAL.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\dal\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5253F5A0-5B6F-4E30-9E19-16DCE60ECE5A}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5253F5A0-5B6F-4E30-9E19-16DCE60ECE5A}|DAL\\DAL.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\dal\\repositories\\sampletyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5253F5A0-5B6F-4E30-9E19-16DCE60ECE5A}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\sampletyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\adntesting\\viewappointmentdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|solutionrelative:adntesting\\viewappointmentdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\adntesting\\updateappointmentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|solutionrelative:adntesting\\updateappointmentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\adntesting\\testpurposeformwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|solutionrelative:adntesting\\testpurposeformwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\adntesting\\testcategoryformwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|solutionrelative:adntesting\\testcategoryformwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\adntesting\\staffwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|solutionrelative:adntesting\\staffwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\adntesting\\sampletypeformwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|solutionrelative:adntesting\\sampletypeformwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\adntesting\\resultformwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|solutionrelative:adntesting\\resultformwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\adntesting\\updateappointmentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|solutionrelative:adntesting\\updateappointmentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|c:\\users\\vinh\\downloads\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\prn212_swp-tainguyen\\adntesting\\viewappointmentdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FE3451-87C1-4F33-991D-1F540BAEF933}|ADNTesting\\ADNTesting.csproj|solutionrelative:adntesting\\viewappointmentdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\BLL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\BLL\\Services\\UserService.cs",
+              "RelativeToolTip": "BLL\\Services\\UserService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T05:23:03.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RegisterWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\RegisterWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ADNTesting\\RegisterWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\RegisterWindow.xaml.cs",
+              "RelativeToolTip": "ADNTesting\\RegisterWindow.xaml.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAQwJsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T05:22:12.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FeedbackService.cs",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\BLL\\Services\\FeedbackService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\FeedbackService.cs",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\BLL\\Services\\FeedbackService.cs",
+              "RelativeToolTip": "BLL\\Services\\FeedbackService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T05:18:25.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FeedbackRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\DAL\\Repositories\\FeedbackRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\FeedbackRepository.cs",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\DAL\\Repositories\\FeedbackRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\FeedbackRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T05:17:48.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FeedbackWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\FeedbackWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ADNTesting\\FeedbackWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\FeedbackWindow.xaml.cs",
+              "RelativeToolTip": "ADNTesting\\FeedbackWindow.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T05:16:56.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\appsettings.json",
+              "RelativeDocumentMoniker": "ADNTesting\\appsettings.json",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\appsettings.json",
+              "RelativeToolTip": "ADNTesting\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-01T18:35:29.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManagerWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\ManagerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ADNTesting\\ManagerWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\ManagerWindow.xaml.cs",
+              "RelativeToolTip": "ADNTesting\\ManagerWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T05:30:20.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FeedbackWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\FeedbackWindow.xaml",
+              "RelativeDocumentMoniker": "ADNTesting\\FeedbackWindow.xaml",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\FeedbackWindow.xaml",
+              "RelativeToolTip": "ADNTesting\\FeedbackWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-02T05:16:31.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppointmentBookedWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\AppointmentBookedWindow.xaml",
+              "RelativeDocumentMoniker": "ADNTesting\\AppointmentBookedWindow.xaml",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\AppointmentBookedWindow.xaml",
+              "RelativeToolTip": "ADNTesting\\AppointmentBookedWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-01T13:41:31.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ManageReportWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\ManageReportWindow.xaml",
+              "RelativeDocumentMoniker": "ADNTesting\\ManageReportWindow.xaml",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\ManageReportWindow.xaml",
+              "RelativeToolTip": "ADNTesting\\ManageReportWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-02T05:31:31.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ManageReportWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\ManageReportWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ADNTesting\\ManageReportWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\ManageReportWindow.xaml.cs",
+              "RelativeToolTip": "ADNTesting\\ManageReportWindow.xaml.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwCEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T05:31:53.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ReportModel.cs",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\DAL\\Entities\\ReportModel.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\ReportModel.cs",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\DAL\\Entities\\ReportModel.cs",
+              "RelativeToolTip": "DAL\\Entities\\ReportModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T05:32:58.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\BLL\\Services\\ReportService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\ReportService.cs",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\BLL\\Services\\ReportService.cs",
+              "RelativeToolTip": "BLL\\Services\\ReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T05:33:44.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ManageFeedback.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\ManageFeedback.xaml.cs",
+              "RelativeDocumentMoniker": "ADNTesting\\ManageFeedback.xaml.cs",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\ManageFeedback.xaml.cs",
+              "RelativeToolTip": "ADNTesting\\ManageFeedback.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T05:15:36.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ManageFeedback.xaml",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\ManageFeedback.xaml",
+              "RelativeDocumentMoniker": "ADNTesting\\ManageFeedback.xaml",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\ManageFeedback.xaml",
+              "RelativeToolTip": "ADNTesting\\ManageFeedback.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-02T05:15:15.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ServiceWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\ServiceWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ADNTesting\\ServiceWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\ServiceWindow.xaml.cs",
+              "RelativeToolTip": "ADNTesting\\ServiceWindow.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAjwD8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T05:13:45.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "TestPurposeService.cs",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\BLL\\Services\\TestPurposeService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\TestPurposeService.cs",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\BLL\\Services\\TestPurposeService.cs",
+              "RelativeToolTip": "BLL\\Services\\TestPurposeService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T19:15:39.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "TestPurposeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\DAL\\Repositories\\TestPurposeRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\TestPurposeRepository.cs",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\DAL\\Repositories\\TestPurposeRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\TestPurposeRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T19:15:05.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "TestCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\DAL\\Repositories\\TestCategoryRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\TestCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\DAL\\Repositories\\TestCategoryRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\TestCategoryRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAowB8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T19:15:01.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "TestPurposeFormWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\TestPurposeFormWindow.xaml",
+              "RelativeDocumentMoniker": "ADNTesting\\TestPurposeFormWindow.xaml",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\TestPurposeFormWindow.xaml",
+              "RelativeToolTip": "ADNTesting\\TestPurposeFormWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-01T18:39:24.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "TestCategoryFormWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\TestCategoryFormWindow.xaml",
+              "RelativeDocumentMoniker": "ADNTesting\\TestCategoryFormWindow.xaml",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\TestCategoryFormWindow.xaml",
+              "RelativeToolTip": "ADNTesting\\TestCategoryFormWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-01T18:39:21.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ResultFormWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\ResultFormWindow.xaml",
+              "RelativeDocumentMoniker": "ADNTesting\\ResultFormWindow.xaml",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\ResultFormWindow.xaml",
+              "RelativeToolTip": "ADNTesting\\ResultFormWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-01T18:38:59.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManageTestCategoryWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\ManageTestCategoryWindow.xaml",
+              "RelativeDocumentMoniker": "ADNTesting\\ManageTestCategoryWindow.xaml",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\ManageTestCategoryWindow.xaml",
+              "RelativeToolTip": "ADNTesting\\ManageTestCategoryWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-01T18:38:45.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ManageKitWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\ManageKitWindow.xaml",
+              "RelativeDocumentMoniker": "ADNTesting\\ManageKitWindow.xaml",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\ManageKitWindow.xaml",
+              "RelativeToolTip": "ADNTesting\\ManageKitWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-01T18:38:30.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "KitDetailWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\KitDetailWindow.xaml",
+              "RelativeDocumentMoniker": "ADNTesting\\KitDetailWindow.xaml",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\KitDetailWindow.xaml",
+              "RelativeToolTip": "ADNTesting\\KitDetailWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-01T18:38:13.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CreateResultWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\CreateResultWindow.xaml",
+              "RelativeDocumentMoniker": "ADNTesting\\CreateResultWindow.xaml",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\CreateResultWindow.xaml",
+              "RelativeToolTip": "ADNTesting\\CreateResultWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-01T18:37:58.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "SampleTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\DAL\\Repositories\\SampleTypeRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\SampleTypeRepository.cs",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\DAL\\Repositories\\SampleTypeRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\SampleTypeRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAvwC4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T18:29:03.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManagerWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\ManagerWindow.xaml",
+              "RelativeDocumentMoniker": "ADNTesting\\ManagerWindow.xaml",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\ManagerWindow.xaml",
+              "RelativeToolTip": "ADNTesting\\ManagerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-01T18:23:22.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "SampleTypeFormWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\SampleTypeFormWindow.xaml",
+              "RelativeDocumentMoniker": "ADNTesting\\SampleTypeFormWindow.xaml",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\SampleTypeFormWindow.xaml",
+              "RelativeToolTip": "ADNTesting\\SampleTypeFormWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-01T18:23:18.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "StaffWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\StaffWindow.xaml",
+              "RelativeDocumentMoniker": "ADNTesting\\StaffWindow.xaml",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\StaffWindow.xaml",
+              "RelativeToolTip": "ADNTesting\\StaffWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-01T18:23:06.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManageTestPurposeWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\ManageTestPurposeWindow.xaml",
+              "RelativeDocumentMoniker": "ADNTesting\\ManageTestPurposeWindow.xaml",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\ManageTestPurposeWindow.xaml",
+              "RelativeToolTip": "ADNTesting\\ManageTestPurposeWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-01T18:22:49.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManageSampleTypeWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\ManageSampleTypeWindow.xaml",
+              "RelativeDocumentMoniker": "ADNTesting\\ManageSampleTypeWindow.xaml",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\ManageSampleTypeWindow.xaml",
+              "RelativeToolTip": "ADNTesting\\ManageSampleTypeWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-01T18:21:10.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UpdateAppointmentWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\UpdateAppointmentWindow.xaml",
+              "RelativeDocumentMoniker": "ADNTesting\\UpdateAppointmentWindow.xaml",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\UpdateAppointmentWindow.xaml",
+              "RelativeToolTip": "ADNTesting\\UpdateAppointmentWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-01T18:21:01.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "ADNTesting\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\AssemblyInfo.cs",
+              "RelativeToolTip": "ADNTesting\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T18:19:58.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DetailBookingWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\DetailBookingWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ADNTesting\\DetailBookingWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\DetailBookingWindow.xaml.cs",
+              "RelativeToolTip": "ADNTesting\\DetailBookingWindow.xaml.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAA5wN4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T17:56:59.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "UpdateAppointmentWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\UpdateAppointmentWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ADNTesting\\UpdateAppointmentWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\UpdateAppointmentWindow.xaml.cs",
+              "RelativeToolTip": "ADNTesting\\UpdateAppointmentWindow.xaml.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAIwFgAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T16:42:45.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\DAL\\Entities\\Appointment.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Appointment.cs",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\DAL\\Entities\\Appointment.cs",
+              "RelativeToolTip": "DAL\\Entities\\Appointment.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA4wDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T15:03:55.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CustomerWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\CustomerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ADNTesting\\CustomerWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\CustomerWindow.xaml.cs",
+              "RelativeToolTip": "ADNTesting\\CustomerWindow.xaml.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAUwC8AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T14:59:09.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AppointmentBookedWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\AppointmentBookedWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ADNTesting\\AppointmentBookedWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\AppointmentBookedWindow.xaml.cs",
+              "RelativeToolTip": "ADNTesting\\AppointmentBookedWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T14:40:16.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ADNTesting\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "ADNTesting\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAMwDEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T14:31:11.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ServiceWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\ServiceWindow.xaml",
+              "RelativeDocumentMoniker": "ADNTesting\\ServiceWindow.xaml",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\ServiceWindow.xaml",
+              "RelativeToolTip": "ADNTesting\\ServiceWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-01T14:02:03.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\RegisterWindow.xaml",
+              "RelativeDocumentMoniker": "ADNTesting\\RegisterWindow.xaml",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\RegisterWindow.xaml",
+              "RelativeToolTip": "ADNTesting\\RegisterWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-01T14:02:00.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManageServiceWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\ManageServiceWindow.xaml",
+              "RelativeDocumentMoniker": "ADNTesting\\ManageServiceWindow.xaml",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\ManageServiceWindow.xaml",
+              "RelativeToolTip": "ADNTesting\\ManageServiceWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-01T14:01:58.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ADNTesting\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\MainWindow.xaml",
+              "RelativeToolTip": "ADNTesting\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-01T14:01:57.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "ADNTesting\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\LoginWindow.xaml",
+              "RelativeToolTip": "ADNTesting\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-01T14:01:56.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DetailServiceWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\DetailServiceWindow.xaml",
+              "RelativeDocumentMoniker": "ADNTesting\\DetailServiceWindow.xaml",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\DetailServiceWindow.xaml",
+              "RelativeToolTip": "ADNTesting\\DetailServiceWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-01T14:01:55.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DetailBookingWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\DetailBookingWindow.xaml",
+              "RelativeDocumentMoniker": "ADNTesting\\DetailBookingWindow.xaml",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\DetailBookingWindow.xaml",
+              "RelativeToolTip": "ADNTesting\\DetailBookingWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-01T14:01:53.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CustomerWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\CustomerWindow.xaml",
+              "RelativeDocumentMoniker": "ADNTesting\\CustomerWindow.xaml",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\CustomerWindow.xaml",
+              "RelativeToolTip": "ADNTesting\\CustomerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-01T14:01:52.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\DAL\\Repositories\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\AppointmentRepository.cs",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\DAL\\Repositories\\AppointmentRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\AppointmentRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAEwBkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T13:49:33.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\DAL\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\DAL\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T14:01:41.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ServiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\DAL\\Repositories\\ServiceRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\ServiceRepository.cs",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\DAL\\Repositories\\ServiceRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\ServiceRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAzwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T14:01:39.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ViewAppointmentDetail.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\ViewAppointmentDetail.xaml.cs",
+              "RelativeDocumentMoniker": "ADNTesting\\ViewAppointmentDetail.xaml.cs",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\ViewAppointmentDetail.xaml.cs",
+              "RelativeToolTip": "ADNTesting\\ViewAppointmentDetail.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAxwCoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T13:41:48.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ViewAppointmentDetail.xaml",
+              "DocumentMoniker": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\ViewAppointmentDetail.xaml",
+              "RelativeDocumentMoniker": "ADNTesting\\ViewAppointmentDetail.xaml",
+              "ToolTip": "C:\\Users\\VINH\\Downloads\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\PRN212_SWP-TaiNguyen\\ADNTesting\\ViewAppointmentDetail.xaml",
+              "RelativeToolTip": "ADNTesting\\ViewAppointmentDetail.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-01T13:41:46.021Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

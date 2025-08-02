@@ -1,0 +1,33 @@
+﻿<Window x:Class="ADNTesting.RegisterWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ADNTesting"
+        mc:Ignorable="d"
+        Title="RegisterWindow" Height="550" Width="800" Loaded="Window_Loaded">
+    <Grid>
+        <Label Content="ĐĂNG KÍ" HorizontalAlignment="Left" Height="54" Margin="319,10,0,0" VerticalAlignment="Top" Width="190" FontSize="35"/>
+        <Label Content="Họ và tên" HorizontalAlignment="Left" Height="29" Margin="37,80,0,0" VerticalAlignment="Top" Width="84"/>
+        <TextBox x:Name="txtFullName" HorizontalAlignment="Left" Height="29" Margin="163,80,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="181" TabIndex="1"/>
+        <Label Content="Giới tính" HorizontalAlignment="Left" Height="29" Margin="37,127,0,0" VerticalAlignment="Top" Width="84"/>
+        <ComboBox x:Name="cbxGender" HorizontalAlignment="Left" Height="29" Margin="163,127,0,0" VerticalAlignment="Top" Width="105" TabIndex="2"/>
+        <Label Content="Email" HorizontalAlignment="Left" Height="29" Margin="37,226,0,0" VerticalAlignment="Top" Width="84"/>
+        <TextBox x:Name="txtEmail" HorizontalAlignment="Left" Height="29" Margin="163,226,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="181" TabIndex="4"/>
+        <Label Content="Số điện thoại" HorizontalAlignment="Left" Height="29" Margin="37,278,0,0" VerticalAlignment="Top" Width="84"/>
+        <TextBox x:Name="txtPhone" HorizontalAlignment="Left" Height="29" Margin="163,278,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="181" TabIndex="5"/>
+        <Label Content="Địa chỉ" HorizontalAlignment="Left" Height="29" Margin="37,331,0,0" VerticalAlignment="Top" Width="84"/>
+        <TextBox x:Name="txtAddress" HorizontalAlignment="Left" Height="29" Margin="163,331,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="181" TabIndex="6"/>
+        <Label Content="Tên đăng nhập" HorizontalAlignment="Left" Height="29" Margin="37,378,0,0" VerticalAlignment="Top" Width="101"/>
+        <TextBox x:Name="txtUsername" HorizontalAlignment="Left" Height="29" Margin="163,378,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="181" TabIndex="7"/>
+        <Label Content="Mật khẩu" HorizontalAlignment="Left" Height="29" Margin="37,433,0,0" VerticalAlignment="Top" Width="84"/>
+        <TextBox x:Name="txtPassword" HorizontalAlignment="Left" Height="29" Margin="163,433,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="181" TabIndex="8"/>
+        <Button x:Name="btnRegister" Content="Đăng kí" HorizontalAlignment="Left" Height="43" Margin="563,0,0,0" VerticalAlignment="Center" Width="126" TabIndex="3" Click="btnRegister_Click"/>
+        <Button x:Name="btnQuit" Content="Quay lại" HorizontalAlignment="Left" Height="44" Margin="563,354,0,0" VerticalAlignment="Top" Width="126" TabIndex="3" Click="btnQuit_Click"/>
+        <Label Content="Nhập lại mật khẩu" HorizontalAlignment="Left" Height="29" Margin="37,482,0,0" VerticalAlignment="Top" Width="121"/>
+        <TextBox x:Name="txt" HorizontalAlignment="Left" Height="29" Margin="163,482,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="181" TabIndex="9"/>
+        <Label Content="Ngày sinh" HorizontalAlignment="Left" Height="29" Margin="37,178,0,0" VerticalAlignment="Top" Width="84"/>
+        <DatePicker x:Name="dpDateOfBirth" HorizontalAlignment="Left" Height="29" Margin="163,178,0,0" VerticalAlignment="Top" Width="105" TabIndex="3"/>
+
+    </Grid>
+</Window>

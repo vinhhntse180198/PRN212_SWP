@@ -1,0 +1,42 @@
+﻿<Window x:Class="ADNTesting.ViewAppointmentDetail"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ADNTesting"
+        mc:Ignorable="d"
+        Title="ViewAppointmentDetail" Height="470" Width="800" Loaded="Window_Loaded">
+    <Grid>
+        <Label Content="Thông tin chi tiết" HorizontalAlignment="Left" Height="47" Margin="295,8,0,0" VerticalAlignment="Top" Width="304" FontSize="30"/>
+        <Label Content="Họ và tên" HorizontalAlignment="Left" Height="34" Margin="38,60,0,0" VerticalAlignment="Top" Width="89"/>
+        <TextBox x:Name="txtFullName" HorizontalAlignment="Left" Height="34" Margin="148,60,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="169" TabIndex="1"/>
+        <Label Content="Ngày sinh" HorizontalAlignment="Left" Height="34" Margin="38,119,0,0" VerticalAlignment="Top" Width="89"/>
+        <DatePicker x:Name="dpDob" HorizontalAlignment="Left" Height="34" Margin="148,119,0,0" VerticalAlignment="Top" Width="118" TabIndex="2"/>
+        <Label Content="Số điện thoại" HorizontalAlignment="Left" Height="34" Margin="38,171,0,0" VerticalAlignment="Top" Width="89"/>
+        <TextBox x:Name="txtPhone" HorizontalAlignment="Left" Height="34" Margin="148,171,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="169" TabIndex="3"/>
+        <Label Content="Email" HorizontalAlignment="Left" Height="34" Margin="38,226,0,0" VerticalAlignment="Top" Width="89"/>
+        <TextBox x:Name="txtEmail" HorizontalAlignment="Left" Height="34" Margin="148,226,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="169" TabIndex="4"/>
+        <Label Content="Tỉnh/Thành Phố" HorizontalAlignment="Left" Height="34" Margin="38,280,0,0" VerticalAlignment="Top" Width="105"/>
+        <Label Content="Quận/Huyện" HorizontalAlignment="Left" Height="34" Margin="38,335,0,0" VerticalAlignment="Top" Width="105"/>
+        <Label Content="Mục đích xét nghiệm" HorizontalAlignment="Left" Height="34" Margin="38,390,0,0" VerticalAlignment="Top" Width="122"/>
+        <Label Content="Loại dịch vụ" HorizontalAlignment="Left" Height="34" Margin="357,64,0,0" VerticalAlignment="Top" Width="122"/>
+        <Label Content="Ngày hẹn" HorizontalAlignment="Left" Height="34" Margin="359,116,0,0" VerticalAlignment="Top" Width="88"/>
+        <DatePicker x:Name="dpAppointmentDate" HorizontalAlignment="Left" Height="34" Margin="495,116,0,0" VerticalAlignment="Top" Width="118" TabIndex="9"/>
+        <Label Content="Giờ lấy mẫu" HorizontalAlignment="Left" Height="34" Margin="361,171,0,0" VerticalAlignment="Top" Width="90"/>
+        <TextBox x:Name="txtCollectionTime" HorizontalAlignment="Left" Height="34" Margin="495,171,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TabIndex="10"/>
+        <Label Content="Loại xét nghiệm" HorizontalAlignment="Left" Height="34" Margin="361,225,0,0" VerticalAlignment="Top" Width="90"/>
+        <Label Content="Địa điểm lấy mẫu" HorizontalAlignment="Left" Height="34" Margin="361,278,0,0" VerticalAlignment="Top" Width="109"/>
+        <Label Content="Bộ kit xét nghiệm" HorizontalAlignment="Left" Height="34" Margin="361,333,0,0" VerticalAlignment="Top" Width="109"/>
+        <Label Content="Loại mẫu" HorizontalAlignment="Left" Height="34" Margin="361,390,0,0" VerticalAlignment="Top" Width="90"/>
+        <TextBox x:Name="txtSampleType" HorizontalAlignment="Left" Height="34" Margin="495,390,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TabIndex="14"/>
+        <Button x:Name="btnCancel" Content="Quay lại" HorizontalAlignment="Left" Height="38" Margin="674,218,0,0" VerticalAlignment="Top" Width="105" Click="BtnCancel_Click"/>
+        <TextBox x:Name="txtProvince" HorizontalAlignment="Left" Height="34" Margin="148,278,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="169" TabIndex="5"/>
+        <TextBox x:Name="txtDistrict" HorizontalAlignment="Left" Height="34" Margin="148,335,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="169" TabIndex="6"/>
+        <TextBox x:Name="txtTestPurpose" HorizontalAlignment="Left" Height="34" Margin="178,390,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="152" TabIndex="7"/>
+        <TextBox x:Name="txtTestCategory" HorizontalAlignment="Left" Height="34" Margin="495,218,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TabIndex="11"/>
+        <TextBox x:Name="txtCollectionAddress" HorizontalAlignment="Left" Height="34" Margin="495,278,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TabIndex="12"/>
+        <TextBox x:Name="txtKitComponent" HorizontalAlignment="Left" Height="34" Margin="495,335,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TabIndex="13"/>
+        <TextBox x:Name="txtServiceType" HorizontalAlignment="Left" Height="34" Margin="495,64,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="169" TabIndex="8"/>
+
+    </Grid>
+</Window>

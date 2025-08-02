@@ -1,0 +1,75 @@
+<Window x:Class="ADNTesting.ManageTestPurposeWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Quản lý Mục đích Xét nghiệm" Height="600" Width="800"
+        WindowStartupLocation="CenterScreen"
+        Background="#F9FAFB">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Header -->
+        <TextBlock Grid.Row="0" Text="Quản lý Mục đích Xét nghiệm"
+                   FontSize="20" FontWeight="Bold" Margin="0,0,0,20"
+                   Foreground="#1F2937"/>
+
+        <!-- Search and Add -->
+        <Grid Grid.Row="1" Margin="0,0,0,10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+
+            <TextBox x:Name="txtSearch" Grid.Column="0" Margin="0,0,10,0"
+                     Background="White" Foreground="#111827" BorderBrush="#D1D5DB" Padding="4"
+                     TextChanged="txtSearch_TextChanged"/>
+            <Button x:Name="btnAdd" Grid.Column="1" Content="Thêm mới"
+                    Width="100" Margin="0,0,10,0" Click="btnAdd_Click"
+                    Background="#10B981" Foreground="White" BorderThickness="0" FontWeight="SemiBold"/>
+            <Button x:Name="btnRefresh" Grid.Column="2" Content="Làm mới"
+                    Width="100" Click="btnRefresh_Click"
+                    Background="#3B82F6" Foreground="White" BorderThickness="0" FontWeight="SemiBold"/>
+        </Grid>
+
+        <!-- DataGrid -->
+        <DataGrid x:Name="dgTestPurposes" Grid.Row="2"
+                  AutoGenerateColumns="False"
+                  CanUserAddRows="False"
+                  SelectionMode="Single"
+                  Background="White" Foreground="#111827"
+                  AlternatingRowBackground="#F3F4F6" BorderBrush="#D1D5DB" BorderThickness="1"
+                  FontSize="14"
+                  SelectionChanged="dgTestPurposes_SelectionChanged">
+            <DataGrid.ColumnHeaderStyle>
+                <Style TargetType="DataGridColumnHeader">
+                    <Setter Property="Background" Value="#374151"/>
+                    <Setter Property="Foreground" Value="White"/>
+                    <Setter Property="FontWeight" Value="SemiBold"/>
+                    <Setter Property="FontSize" Value="14"/>
+                    <Setter Property="Padding" Value="6,4"/>
+                </Style>
+            </DataGrid.ColumnHeaderStyle>
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding TestPurposeId}" Width="50"/>
+                <DataGridTextColumn Header="Tên mục đích" Binding="{Binding TestPurposeName}" Width="200"/>
+                <DataGridTextColumn Header="Mô tả" Binding="{Binding TestPurposeDescription}" Width="300"/>
+                <DataGridTextColumn Header="Trạng thái" Binding="{Binding IsActive}" Width="80"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <!-- Action Buttons -->
+        <StackPanel Grid.Row="3" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,10,0,0">
+            <Button x:Name="btnEdit" Content="Sửa" Width="80" Margin="0,0,10,0" Click="btnEdit_Click"
+                    Background="#F59E0B" Foreground="White" BorderThickness="0" FontWeight="SemiBold"/>
+            <Button x:Name="btnDelete" Content="Xóa" Width="80" Margin="0,0,10,0" Click="btnDelete_Click"
+                    Background="#EF4444" Foreground="White" BorderThickness="0" FontWeight="SemiBold"/>
+            <Button x:Name="btnClose" Content="Đóng" Width="80" Click="btnClose_Click"
+                    Background="#6B7280" Foreground="White" BorderThickness="0" FontWeight="SemiBold"/>
+        </StackPanel>
+    </Grid>
+</Window>
